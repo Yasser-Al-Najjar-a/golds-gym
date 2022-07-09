@@ -1,12 +1,12 @@
 body {
   font-family: "Josefin Sans";
-  background-color: #d5d5d5;
+  background-color: #f1f1f1;
 }
 
 * {
+  box-sizing: border-box;
   padding: 0px;
   margin: 0px;
-  box-sizing: border-box;
 }
 
 ::-webkit-scrollbar {
